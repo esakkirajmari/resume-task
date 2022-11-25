@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: sans-serif;
+}
+.link{
+	height:95px;
+	width:95px;
+	border-radius:50%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:;
+	margin:auto;
+	font-size:30px;
+	box-shadow:;
+	border:8px solid #c4c4db;
+	transition:all 1s ease 0s;
+}
+.link:hover{
+	background-color:#2ccbb5;
+	border:8px solid #6d959530;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+.header{
+	
+}
+
+		
+		
+		
+		
+		
+		
+		
+		
